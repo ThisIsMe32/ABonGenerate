@@ -1,0 +1,1 @@
+ContentType=&ContentWidth=&ISOCurrencySymbol=HRK&PartnerId=8f62c8f0-7155-4c0e-8ebe-cd9357cfd1bf&PartnerTransactionId=76b266ae-4d61-414b-baa9-44f9da1182e1&PointOfSaleId=test&Value=200
